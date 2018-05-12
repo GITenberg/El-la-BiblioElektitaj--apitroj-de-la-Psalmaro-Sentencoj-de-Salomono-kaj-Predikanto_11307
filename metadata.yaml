@@ -1,5 +1,8 @@
 _repo: El-la-BiblioElektitaj--apitroj-de-la-Psalmaro-Sentencoj-de-Salomono-kaj-Predikanto_11307
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zamenhof, L. L. (Ludwik Lejzer)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3934
     wikipedia: http://en.wikipedia.org/wiki/L._L._Zamenhof
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11307#El-la-BiblioElektitaj--apitroj-de-la-Psalmaro-Sentencoj-de-Salomono-kaj-Predikanto
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
